@@ -1,0 +1,18 @@
+{
+	"name": "Homepage check",
+	"hostid": "1",
+	"steps": [
+		{
+			"name": "Homepage",
+			"url": "http://www.zabbix.com",
+			"status_codes": "200",
+			"no": "1"
+		},
+		{
+			"name": "Homepage 2",
+			"url": "http://www.zabbix.org",
+			"status_codes": "200",
+			"no": "2"
+		}
+	]
+}

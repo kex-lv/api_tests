@@ -1,0 +1,10 @@
+{
+	"name": "Free disk space on $1",
+	"key_": "vfs.fs.size[/home/joe/,free]",
+	"hostid": "0",
+	"type": "0",
+	"value_type": "3",
+	"interfaceid": "0",
+	"applications": [0],
+	"delay": "30"
+}

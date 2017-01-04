@@ -1,0 +1,40 @@
+{
+	"httptestid": "1",
+	"name": "Homepage check",
+	"applicationid": "0",
+	"nextcheck": "0",
+	"delay": "60",
+	"status": "0",
+	"variables": "",
+	"agent": "Zabbix",
+	"authentication": "0",
+	"http_user": "",
+	"http_password": "",
+	"hostid": "10084",
+	"templateid": "0",
+	"http_proxy": "",
+	"retries": "1",
+	"ssl_cert_file": "",
+	"ssl_key_file": "",
+	"ssl_key_password": "",
+	"verify_peer": "0",
+	"verify_host": "0",
+	"headers": "",
+	"steps": [
+		{
+			"httpstepid": "36",
+			"httptestid": "9",
+			"name": "Homepage",
+			"no": "1",
+			"url": "http://mycompany.com",
+			"timeout": "15",
+			"posts": "",
+			"required": "",
+			"status_codes": "200",
+			"variables": "",
+			"follow_redirects": "1",
+			"retrieve_mode": "0",
+			"headers": ""
+		}
+	]
+}

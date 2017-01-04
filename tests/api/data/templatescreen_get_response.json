@@ -1,0 +1,33 @@
+{
+	"screenid": "3",
+	"name": "System performance",
+	"hsize": "2",
+	"vsize": "3",
+	"templateid": "10001",
+	"userid": "0",
+	"private": "1",
+	"screenitems": [
+		{
+			"screenitemid": "20",
+			"screenid": "3",
+			"resourcetype": "0",
+			"resourceid": "433",
+			"width": "500",
+			"height": "120",
+			"x": "0",
+			"y": "0",
+			"colspan": "1",
+			"rowspan": "1",
+			"elements": "0",
+			"valign": "1",
+			"halign": "0",
+			"style": "0",
+			"url": "",
+			"dynamic": "0",
+			"sort_triggers": "0",
+			"application": "",
+			"max_columns": "3"
+		}
+	],
+	"hostid": "10001"
+}

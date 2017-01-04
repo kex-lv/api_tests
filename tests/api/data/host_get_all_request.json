@@ -1,0 +1,5 @@
+{
+	"output": "extend",
+	"selectInterfaces": "extend",
+	"selectApplications": "extend"
+}

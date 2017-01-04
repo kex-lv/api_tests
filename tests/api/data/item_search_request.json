@@ -1,0 +1,8 @@
+{
+	"output": "extend",
+	"hostids": "0",
+	"search": {
+		"key_": "foo"
+	},
+	"sortfield": "name"
+}

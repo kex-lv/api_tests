@@ -1,0 +1,12 @@
+{
+    "output": "extend",
+    "hostids": [
+        14460
+    ],
+    "webitems": 1,
+    "selectApplications": "extend",
+    "filter": {
+        "type": "9"
+    },
+    "sortfield": "itemid"
+}
